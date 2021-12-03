@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niroop \
 Mobile App Developer ```Flutter```
 - 👀 I’m interested in becoming a Fullstack developer
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning ```Golang```
 - 📫 How to reach me [Email](nife.niroopn@gmail.com)
 
 <!---
